@@ -1,0 +1,326 @@
+[
+  {
+    "ID" : 0,
+    "displayName" : "A",
+    "coordinatesScale" : "AW+21.371,AO+23.726,AN+13.509,AL+24.811",
+    "coordinates" : "104.667,116.500"
+  },
+  {
+    "ID" : 1,
+    "displayName" : "B",
+    "coordinatesScale" : "AZ+54.099,Ak +34.883,AM+16.043",
+    "coordinates" : "22.167,115.667"
+  },
+  {
+    "ID" : 2,
+    "displayName" : "C",
+    "coordinatesScale" : "AN+50.335,Ac+16.414,G+32.142,D+34.069",
+    "coordinates" : "104.667,180.333"
+  },
+  {
+    "ID" : 3,
+    "displayName" : "D",
+    "coordinatesScale" : "C+34.069,E+41.821",
+    "coordinates" : "86.000,208.833"
+  },
+  {
+    "ID" : 4,
+    "displayName" : "E",
+    "coordinatesScale" : "D+41.821,F+25.109,Af+7.049",
+    "coordinates" : "102.333,247.333"
+  },
+  {
+    "ID" : 5,
+    "displayName" : "G",
+    "coordinatesScale" : "Ac+18.677,C+32.142,Ad+17.383,F+22.962,Z+44.590",
+    "coordinates" : "123.333,206.500"
+  },
+  {
+    "ID" : 6,
+    "displayName" : "H",
+    "coordinatesScale" : "Aa+17.013,BA+24.113,Z+40.059,I+46.500",
+    "coordinates" : "207.833,205.833"
+  },
+  {
+    "ID" : 7,
+    "displayName" : "I",
+    "coordinatesScale" : "H+46.500,V+35.468,X+27.691",
+    "coordinates" : "207.833,252.333"
+  },
+  {
+    "ID" : 8,
+    "displayName" : "J",
+    "coordinatesScale" : "AS+12.903,BB+26.990,Ab+21.375",
+    "coordinates" : "208.667,137.000"
+  },
+  {
+    "ID" : 9,
+    "displayName" : "K",
+    "coordinatesScale" : "Tattoo+8.837,AS+10.232",
+    "coordinates" : "199.000,116.500"
+  },
+  {
+    "ID" : 10,
+    "displayName" : "L",
+    "coordinatesScale" : "M+26.312,Tattoo+16.448",
+    "coordinates" : "203.667,91.833"
+  },
+  {
+    "ID" : 11,
+    "displayName" : "M",
+    "coordinatesScale" : "N+24.539,L+26.312",
+    "coordinates" : "227.333,80.333"
+  },
+  {
+    "ID" : 12,
+    "displayName" : "N",
+    "coordinatesScale" : "O+26.101,M+24.539",
+    "coordinates" : "249.667,90.500"
+  },
+  {
+    "ID" : 13,
+    "displayName" : "O",
+    "coordinatesScale" : "Q+23.362,N+26.101,P+41.345",
+    "coordinates" : "258.667,115.000"
+  },
+  {
+    "ID" : 14,
+    "displayName" : "P",
+    "coordinatesScale" : "O+41.345",
+    "coordinates" : "300.000,114.000"
+  },
+  {
+    "ID" : 15,
+    "displayName" : "Q",
+    "coordinatesScale" : "O+23.362,BB+34.300,R+26.508",
+    "coordinates" : "257.500,138.333"
+  },
+  {
+    "ID" : 16,
+    "displayName" : "R",
+    "coordinatesScale" : "S+18.507,BB+30.205,Q+26.508",
+    "coordinates" : "256.833,164.833"
+  },
+  {
+    "ID" : 17,
+    "displayName" : "S",
+    "coordinatesScale" : "BA+31.733,U+21.003,R+18.507",
+    "coordinates" : "256.333,183.333"
+  },
+  {
+    "ID" : 18,
+    "displayName" : "T",
+    "coordinatesScale" : "U+25.000",
+    "coordinates" : "256.000,229.333"
+  },
+  {
+    "ID" : 19,
+    "displayName" : "U",
+    "coordinatesScale" : "BA+24.181,S+21.003,T+25.000",
+    "coordinates" : "256.000,204.333"
+  },
+  {
+    "ID" : 20,
+    "displayName" : "V",
+    "coordinatesScale" : "I+35.468,H+35.795,Z+28.771,X+21.844",
+    "coordinates" : "180.833,229.333"
+  },
+  {
+    "ID" : 21,
+    "displayName" : "W",
+    "coordinatesScale" : "X+22.350",
+    "coordinates" : "157.833,250.333"
+  },
+  {
+    "ID" : 22,
+    "displayName" : "X",
+    "coordinatesScale" : "I+27.691,W+22.350,V+21.844",
+    "coordinates" : "180.167,251.167"
+  },
+  {
+    "ID" : 23,
+    "displayName" : "Z",
+    "coordinatesScale" : "V+28.771,H+40.059,Aa+42.038",
+    "coordinates" : "167.833,203.667"
+  },
+  {
+    "ID" : 24,
+    "displayName" : "Aa",
+    "coordinatesScale" : "BA+28.697,H+17.013,Ab+30.500",
+    "coordinates" : "207.167,188.833"
+  },
+  {
+    "ID" : 25,
+    "displayName" : "Ab",
+    "coordinatesScale" : "J+21.375,BB+20.818,Aa+30.500",
+    "coordinates" : "207.333,158.333"
+  },
+  {
+    "ID" : 26,
+    "displayName" : "Ac",
+    "coordinatesScale" : "C+16.414,G+18.677",
+    "coordinates" : "119.000,188.333"
+  },
+  {
+    "ID" : 27,
+    "displayName" : "Ad",
+    "coordinatesScale" : "G+17.383,Z+28.579",
+    "coordinates" : "140.167,210.833"
+  },
+  {
+    "ID" : 28,
+    "displayName" : "Ae ",
+    "coordinatesScale" : "Af+28.504",
+    "coordinates" : "130.000,253.833"
+  },
+  {
+    "ID" : 29,
+    "displayName" : "Af",
+    "coordinatesScale" : "E+7.049,Ag+36.170,Ae +28.504",
+    "coordinates" : "101.500,254.333"
+  },
+  {
+    "ID" : 30,
+    "displayName" : "Ag",
+    "coordinatesScale" : "Af+36.170,Ah+16.666",
+    "coordinates" : "65.333,253.833"
+  },
+  {
+    "ID" : 31,
+    "displayName" : "Ah",
+    "coordinatesScale" : "Ag+16.666",
+    "coordinates" : "65.333,237.167"
+  },
+  {
+    "ID" : 32,
+    "displayName" : "Ai",
+    "coordinatesScale" : "AM+32.187,A j+16.198",
+    "coordinates" : "19.833,163.833"
+  },
+  {
+    "ID" : 33,
+    "displayName" : "A j",
+    "coordinatesScale" : "Ai+16.198",
+    "coordinates" : "36.000,162.833"
+  },
+  {
+    "ID" : 34,
+    "displayName" : "Ak ",
+    "coordinatesScale" : "AM+32.507,B+34.883,AZ+31.466,AL+29.889",
+    "coordinates" : "53.500,131.000"
+  },
+  {
+    "ID" : 35,
+    "displayName" : "AL",
+    "coordinatesScale" : "AN+20.851,A+24.811,AZ+21.673,Ak +29.889",
+    "coordinates" : "83.333,129.167"
+  },
+  {
+    "ID" : 36,
+    "displayName" : "AM",
+    "coordinatesScale" : "B+16.043,Ak +32.507,Ai+32.187",
+    "coordinates" : "21.000,131.667"
+  },
+  {
+    "ID" : 37,
+    "displayName" : "AN",
+    "coordinatesScale" : "AL+20.851,A+13.509,AO+20.690,C+50.335",
+    "coordinates" : "104.167,130.000"
+  },
+  {
+    "ID" : 38,
+    "displayName" : "AO",
+    "coordinatesScale" : "AN+20.690,A+23.726,AP+19.851",
+    "coordinates" : "124.833,129.000"
+  },
+  {
+    "ID" : 39,
+    "displayName" : "AP",
+    "coordinatesScale" : "AO+19.851,AQ+18.049",
+    "coordinates" : "144.667,128.167"
+  },
+  {
+    "ID" : 40,
+    "displayName" : "AQ",
+    "coordinatesScale" : "AR+19.012,AP+18.049",
+    "coordinates" : "162.667,126.833"
+  },
+  {
+    "ID" : 41,
+    "displayName" : "AR",
+    "coordinatesScale" : "AQ+19.012,AS+19.503",
+    "coordinates" : "181.667,126.167"
+  },
+  {
+    "ID" : 42,
+    "displayName" : "AS",
+    "coordinatesScale" : "K+10.232,AR+19.503,J+12.903",
+    "coordinates" : "201.167,126.500"
+  },
+  {
+    "ID" : 43,
+    "displayName" : "AT",
+    "coordinatesScale" : "AV+27.849,AW+16.520",
+    "coordinates" : "134.833,110.833"
+  },
+  {
+    "ID" : 44,
+    "displayName" : "AU",
+    "coordinatesScale" : "Tattoo+27.240,AV+13.334",
+    "coordinates" : "174.833,109.667"
+  },
+  {
+    "ID" : 45,
+    "displayName" : "AV",
+    "coordinatesScale" : "AU+13.334,AT+27.849",
+    "coordinates" : "162.167,105.500"
+  },
+  {
+    "ID" : 46,
+    "displayName" : "AW",
+    "coordinatesScale" : "AT+16.520,A+21.371,AX+49.666",
+    "coordinates" : "120.667,102.333"
+  },
+  {
+    "ID" : 47,
+    "displayName" : "AX",
+    "coordinatesScale" : "AW+49.666,AY+31.688",
+    "coordinates" : "120.667,52.667"
+  },
+  {
+    "ID" : 48,
+    "displayName" : "AY",
+    "coordinatesScale" : "AX+31.688,B1B+22.243",
+    "coordinates" : "89.000,51.500"
+  },
+  {
+    "ID" : 49,
+    "displayName" : "AZ",
+    "coordinatesScale" : "A+29.836,AL+21.673,Ak +31.466,B+54.099",
+    "coordinates" : "75.833,108.833"
+  },
+  {
+    "ID" : 50,
+    "displayName" : "BA",
+    "coordinatesScale" : "H+24.113,Aa+28.697,U+24.181,S+31.733",
+    "coordinates" : "231.833,203.500"
+  },
+  {
+    "ID" : 51,
+    "displayName" : "BB",
+    "coordinatesScale" : "R+30.205,Ab+20.818,J+26.990,Q+34.300",
+    "coordinates" : "228.000,155.833"
+  },
+  {
+    "ID" : 52,
+    "displayName" : "B1B",
+    "coordinatesScale" : "AY+22.243",
+    "coordinates" : "87.167,73.667"
+  },
+  {
+    "ID" : 53,
+    "displayName" : "Tattoo",
+    "coordinatesScale" : "L+16.448,AU+27.240,K+8.837",
+    "coordinates" : "202.033,108.200"
+  }
+]
